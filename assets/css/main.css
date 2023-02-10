@@ -166,19 +166,11 @@ input, select, textarea {
 			text-decoration: none;
 		}
 
-<<<<<<< HEAD
 		#profilepic:hover img {
 			-moz-transform: scale(1.1);
 			-webkit-transform: scale(1.1);
 			-ms-transform: scale(1.1);
 			transform: scale(1.1);
-=======
-		a #profilepic:hover {
-			-moz-transform: scale(1.05) rotate(0deg);
-			-webkit-transform: scale(1.05) rotate(0deg);
-			-ms-transform: scale(1.05) rotate(0deg);
-			transform: scale(1.05) rotate(0deg);
->>>>>>> 78bcc4c8096420e90265edc0bae1c00c4a7204d8
 		}
 
 	strong, b {
