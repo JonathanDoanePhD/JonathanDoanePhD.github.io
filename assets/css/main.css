@@ -166,6 +166,13 @@ input, select, textarea {
 			text-decoration: none;
 		}
 
+		a #profilepic:hover {
+			-moz-transform: scale(1.05) rotate(0deg);
+			-webkit-transform: scale(1.05) rotate(0deg);
+			-ms-transform: scale(1.05) rotate(0deg);
+			transform: scale(1.05) rotate(0deg);
+		}
+
 	strong, b {
 		color: #61686b;
 		font-weight: 700;
